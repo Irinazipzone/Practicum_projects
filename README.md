@@ -1,4 +1,5 @@
 # Проекты Я.Практикум
+![0949badcde1bc46c4f8bc64383eee5b1](https://github.com/user-attachments/assets/0adb9197-d3ed-4d78-8c65-541f8637adf6)
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
